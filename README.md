@@ -2,6 +2,12 @@
 
 Demonstration of working code: #
 
+To download the project: `git clone https://github.com/iRnx/veeam_task.git`
+
+To run the program in a virtual environment: `python3 -m venv venv`
+
+To activate the virtual environment: `source venv/bin/activate`
+
 This task consists of synchronizing 2 folders and everything I do in folder1 will also be done in folder2.
 
 The program stays in a `while True` to be able to do all the monitoring, when some action happens it will be
