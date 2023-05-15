@@ -1,6 +1,7 @@
 ## Task report where need to sync two folders
 
 Demonstration of working code: https://youtu.be/5qNXOWhWRIA
+
 Demonstration extra code: https://www.youtube.com/watch?v=edJQ3EkIXds
 
 To download the project: `git clone https://github.com/iRnx/veeam_task.git`
